@@ -1,3 +1,10 @@
+/*
+    Author: Luis Marquez
+    Date: 2021/04/08
+    Description:
+        This code uses a serial monitor, a led and a potentiometer to set the led on or off
+*/
+
 int ledRosa = 3;
 int potPin = A0;
 int potValue = 0;
