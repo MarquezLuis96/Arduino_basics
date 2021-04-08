@@ -14,5 +14,6 @@ void setup() {
 
 void loop() {
     tempC = analogRead(sensorTemp);
+    tempc = tempC * 0.48828125;
     Serial.println(tempC);
 }
