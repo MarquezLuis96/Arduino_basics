@@ -2,7 +2,7 @@
     Author: Luis Marquez
     Date: 2021/04/08
     Description:
-        Learning how to use a temperature monitor
+        Learning how to use arduino a Temperature monitor
 */
 
 int tempC;
